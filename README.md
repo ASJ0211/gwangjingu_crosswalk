@@ -26,7 +26,7 @@ gwangjingu_crosswalk
 
 
 ### 👤역할
-기획,데이터 수집, 데이터 분석, 데이터 시각화
+기획,데이터 수집,데이터 시각화, 데이터 분석
 <br>
 
 ### 🧐 Main Issues
